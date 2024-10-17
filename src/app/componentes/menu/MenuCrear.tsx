@@ -1,7 +1,7 @@
 export const MenuCrear = ()=>{
     return(
         <>
-        Hola. soy el no encontrado <br/>
+        Hola. soy el menu crear <br/>
         No me encontraste
         </>
     )

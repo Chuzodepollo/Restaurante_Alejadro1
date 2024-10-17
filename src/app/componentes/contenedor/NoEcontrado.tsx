@@ -1,7 +1,7 @@
 export const NoEncontrado = ()=>{
     return(
         <>
-        Hola. soy el no encontrado <br/>
+        Hola. soy el Franquicias <br/>
         No me encontraste
         </>
     )

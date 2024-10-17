@@ -1,7 +1,7 @@
 export const Acerca = ()=>{
     return(
         <>
-        Hola. soy el no encontrado <br/>
+        Hola. soy el menu Acerca <br/>
         No me encontraste
         </>
     )
